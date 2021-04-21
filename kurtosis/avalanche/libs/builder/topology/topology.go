@@ -4,9 +4,9 @@
 package topology
 
 import (
-	"github.com/otherview/avalanchego-kurtosis/kurtosis/avalanche/libs/builder/networkbuilder"
-	"github.com/otherview/avalanchego-kurtosis/kurtosis/avalanche/libs/constants"
-	"github.com/otherview/avalanchego-kurtosis/kurtosis/kurtosis/networksavalanche"
+	"github.com/mieubrisse/avalanchego-kurtosis/kurtosis/avalanche/libs/builder/networkbuilder"
+	"github.com/mieubrisse/avalanchego-kurtosis/kurtosis/avalanche/libs/constants"
+	"github.com/mieubrisse/avalanchego-kurtosis/kurtosis/kurtosis/networksavalanche"
 	"github.com/kurtosis-tech/kurtosis-libs/golang/lib/networks"
 	"github.com/kurtosis-tech/kurtosis-libs/golang/lib/testsuite"
 	"github.com/palantir/stacktrace"

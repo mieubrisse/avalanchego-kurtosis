@@ -4,7 +4,7 @@
 package testsuiteavalanche
 
 import (
-	"github.com/otherview/avalanchego-kurtosis/kurtosis/avalanche/tests"
+	"github.com/mieubrisse/avalanchego-kurtosis/kurtosis/avalanche/tests"
 	"github.com/kurtosis-tech/kurtosis-libs/golang/lib/testsuite"
 )
 
